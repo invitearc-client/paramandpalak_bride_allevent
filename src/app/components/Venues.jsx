@@ -26,7 +26,8 @@ export default function Venues() {
         className="text-[#BC610A] font-cormorant-garamond text-center
             md:text-3xl text-[19px] lg:text-[40px] leading-tight mt-2 font-semibold"
       >
-       29th November 2026
+       29th & 30th - November 2026 <br/>
+1st December 2026
       </h2>
 
       {/* Pin icon */}
