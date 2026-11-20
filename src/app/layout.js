@@ -17,7 +17,7 @@ export const metadata= {
 
   openGraph: {
     title: "Palak & Param Lohiya",
-    description: "Join as they begin their forever. 29 November 2026",
+    description: "Join as they begin their forever. 29, 30 November & 1 December 2026",
     url: "https://paramandpalak1.vercel.app/",
     siteName: "InviteArc",
     images: [
@@ -35,7 +35,7 @@ export const metadata= {
   twitter: {
     card: "summary_large_image",
     title: "Palak & Param Lohiya",
-    description: "Join as they begin their forever. 29 November 2026",
+    description: "Join as they begin their forever. 29, 30 November & 1 December 2026",
     images: ["/og.jpg"],
   },
 
